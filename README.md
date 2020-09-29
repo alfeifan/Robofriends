@@ -1,6 +1,6 @@
 ## Robofriends
 
-[IMG](IMG.PNG)
+![IMG](IMG.PNG)
 
 Robofriends is a single page react app that makes use of state. 
 
